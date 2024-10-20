@@ -1167,6 +1167,7 @@ function os_icon_name() {
           almalinux)               echo LINUX_ALMALINUX_ICON;;
           guix)                    echo LINUX_GUIX_ICON;;
           neon)                    echo LINUX_NEON_ICON;;
+          pop)                     echo LINUX_POP_ICON;;
           *)                       echo LINUX_ICON;;
         esac
         ;;
